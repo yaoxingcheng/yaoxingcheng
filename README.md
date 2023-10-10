@@ -2,7 +2,7 @@
 Here are some basic facts about myself.
 
 - Graduated from [IIIS](https://iiis.tsinghua.edu.cn/en/), THU, with a bachelor's degree.
-- Currently working as a researcher at a start-up AGI company.
+- Currently working as a researcher at [Moonshot AI](https://www.moonshot.cn/), a start-up AGI company.
 - Now interested in AGI and LLM.
 
 <!--
