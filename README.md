@@ -2,7 +2,7 @@
 Here are some basic facts about myself.
 
 - Graduated from [IIIS](https://iiis.tsinghua.edu.cn/en/), THU.
-- Currently working as a researcher at [Moonshot AI](https://www.moonshot.cn/), a start-up AGI company.
+- Currently a first year PhD student at [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/).
 - Interested in topics about AI and ML.
 
 <!--
